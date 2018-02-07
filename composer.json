@@ -1,0 +1,14 @@
+{
+    "name": "trackingmore/m1_track",
+    "description": "trackingmore Magento1 track composer package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Whosc",
+            "email": "1421851519@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

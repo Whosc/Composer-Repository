@@ -13,6 +13,6 @@ class Rose
 {
     public function desc()
     {
-        echo "this is 1.1.1 version";
+        echo "this is 1.1.2 version";
     }
 }

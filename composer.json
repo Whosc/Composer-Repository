@@ -10,9 +10,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {
-		"trackingmore/m1_track": "dev-master"
-	},
+    "require": {},
 	"autoload": {
         "psr-0": {
             "M1\\Track\\": "src/"

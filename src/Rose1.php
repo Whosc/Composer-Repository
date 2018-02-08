@@ -6,10 +6,10 @@
  * Time: 21:39
  */
 
-#namespace M1\Track;
+namespace M1\Track;
 
 
-class Rose
+class Rose1
 {
     public function desc()
     {
